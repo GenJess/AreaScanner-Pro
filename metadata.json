@@ -1,0 +1,5 @@
+{
+  "name": "AreaScan Pro",
+  "description": "Find places like basketball courts, dog parks, and more using Google Maps and Gemini AI.",
+  "requestFramePermissions": ["geolocation"]
+}
